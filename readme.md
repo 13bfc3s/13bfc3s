@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="160px" src="https://static.vecteezy.com/system/resources/previews/019/909/042/non_2x/abstract-grid-line-neon-retro-style-80s-90s-free-png.png" alt="ooh synthwave.">
+  <img width="100%" height="160px" src="./banner.png" alt="ooh synthwave.">
 </p>
 
 ## bio
