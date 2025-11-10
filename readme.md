@@ -1,18 +1,25 @@
 <p align="center">
-  <img width="100%" height="160px" src="./banner.png" alt="ooh synthwave.">
+  <img width="600" height="340px" src="./banner.png" alt="ooh synthwave.">
 </p>
 
-## bio
-```c++
-struct { // about.me
-    string intro = "Hi, I'm Pip, a full-stack dev.";
-    vector<string> common_langs = { "HTML", "CSS", "JS", "PHP", "SQL", "PY" };
-    vector<string> learning = {  "C", "C++", "C#", "RS", "TS" };
-    string interest = "Gaming (FPS, platforming), Computing (GNU/Linux), Cars (programming, fixing, driving).";
-    string email = "817tech@gmail.com";
-    string discord = "@sirpipthegreat";
-} Pip;
+```
+{
+  "about": {
+    "Pip": {
+      "intro": "Hi, I'm Pip, I code stuff.",
+      "known": ["HTML", "CSS", "JS", "PHP", "SQL", "PY"],
+      "learning": ["C", "C++", "C#", "RS", "TS"],
+      "interests": "Gaming (FPS, platforming), Computing (GNU/Linux), Cars (programming, fixing, driving)",
+      "email": "sirpipthegreat@gmail.com",
+      "discord": "@sirpipthegreat"
+    }
+  }
+}
 ```
 ---
-## What I'm Vibing to 🎵:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1222775676&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ee00ff)](https://github.com/kittinan/spotify-github-profile)
+  ## Current Vibes:
+  <div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1222775676&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ee00ff" alt="Spotify" width="250" height="300" />
+  </a>
+</div>
